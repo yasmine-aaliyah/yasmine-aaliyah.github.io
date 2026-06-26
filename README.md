@@ -21,5 +21,6 @@ B201 Computer Science Lab module at Gisma University of Applied Sciences.
 ## Projects
 - **Hangman Game** — Python terminal game with ASCII art, file-based 
 word loading, and input validation
+[View Flowchart](projects/hangman/Hangman_Flowchart_drawio.png)
 - **Hotel Reservation Database System** — SQL schema design and queries, 
 available at [github.com/yasmine-aaliyah/hotel-reservation-system](https://github.com/yasmine-aaliyah/hotel-reservation-system)
